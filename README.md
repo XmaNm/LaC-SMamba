@@ -1,5 +1,5 @@
 # [LaC-SMamba]
-Official repository for U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation.
+Official repository for LaC-SMamba: Locality-aware Context Sobel Mamba for Medical Image Segmentation.
 
 ## Installation 
 
